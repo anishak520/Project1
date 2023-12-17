@@ -33,9 +33,10 @@ When tackling the question of who is affected, we explored the demographics of t
 When considering the above conclusions, it is clear the targeted interventions previously suggested would not only assist the counties with a higher poverty rate but also a significant portion of Georgia’s Black and Hispanic demographics.
 
 ## Question 4: How do these variables affect diabetes rates?
-When analyzing how poverty rate affects the diabetes rate across Georgia, we determined there to be a r-squared value of .15. Then, when comparing The adult diabetes rate and the median household income we determind there to be a r-squared value of .2. While these r-values do not indicate significant statistical significance, you can see the slope of the correlation to be trending in the direction of our hypothesis. While there is not irrefutable evidence to suggest the lack of access to food in county's with higher poverty rates
+When analyzing how poverty rate affects the diabetes rate across Georgia, we determined there to be a r-squared value of .15. Then, when comparing the adult diabetes rate and the median household income, we determined there to be a r-squared value of .2. While these R-values do not indicate significant statistical significance, the slope of the linear regression to be trending in the direction of our hypothesis. While there is not irrefutable evidence to suggest the lack of access to food in counties with higher poverty rates leads to a higher diabetes rate across the population, the linear regression completed shows a positive trend between the two variables.
+If food access is not addressed across the counties with a higher poverty rate, the overall health of these counties may see decline. While the analysis shows an increased rate of diabetes, it is not farfetched to assume other health related variables may be experiencing the same trend.
 
-##Acknowledgments
+## Acknowledgments
 This project was completed as part of [Data Analytics and Visualization Bootcamp/Analysis of Food Access and Poverty Rates in GA].
 Data source: [Food Environment Atlas ]
 
