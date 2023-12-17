@@ -9,6 +9,7 @@ Data Analysis Notebook: Final_Data.ipynb
 Final data analysis, including visualizations.
 
 ## Major Findings with Visualizations:
+See slide deck
 
 ## Main Question: Does Poverty Rate Affect Food Access?
 Hypothesis: As the poverty rate increases, access to food decreases.
